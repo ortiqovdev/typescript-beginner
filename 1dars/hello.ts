@@ -49,12 +49,11 @@
 // let q:number=p-a
 // let w:number=p-b
 
-// masala 23
+// 23 masala
 
 // let e:number=p-c
 // console.log(`S=${Math.sqrt(p*q*w*e)}`);
  
-// masala 22
 // let a:number=10
 // let b:number=20
 // let d:number=15
