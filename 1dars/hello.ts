@@ -56,3 +56,8 @@
 // let b:number=20
 // let d:number=15
 
+// masala 23 
+
+let a:number=10
+let b:number=20
+let d:number=15
