@@ -35,7 +35,7 @@
 // let c:number= b*b
 // console.log(`${Math.sqrt(d+c)}`);
 
-// masala 21 
+
 // let x1:number=10
 // let x2:number=20
 // let x3:number=30
@@ -48,6 +48,9 @@
 // let p:number=(a+b+c)/2
 // let q:number=p-a
 // let w:number=p-b
+
+// masala 23
+
 // let e:number=p-c
 // console.log(`S=${Math.sqrt(p*q*w*e)}`);
  
